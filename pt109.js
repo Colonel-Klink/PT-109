@@ -85,7 +85,7 @@ function draw() {
     // Set the text size to 72 for the title
     textSize(72)
     // Colour the text white
-    fill("white")
+    fill("255")
     // Write "PT-109" at the top of the screen
     text("PT-109", width / 2, height / 6)
     // Make the text size smaller
